@@ -10,6 +10,10 @@
 - 使用 Slider 控制小费比例，在 sliderChange 中处理变化事件
 
 
+## 预览
+
+![Preview](https://raw.githubusercontent.com/shinwood/Swift03-tip-calculator/master/03-tip-calculator.gif)
+
 ## 更多阅读：
 
 ### 数字输入/输出　
